@@ -78,7 +78,7 @@ td{
 }
 
 tr#head td{
-    padding: 3px;
+    padding: 10px;
 }
 
 #head{
@@ -88,7 +88,7 @@ tr#head td{
 }
 
 tr#hover td{
-    padding: 2px;
+    padding: 6px;
 }
 
 tr#hover td:hover{
